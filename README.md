@@ -9,4 +9,4 @@
 _______________________________________________________________________________________________________________________________________________________________
 
 ## Front-End<br>
-![ReactJS](/assets/images/react.svg)
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skills.thijs.gg)
