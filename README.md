@@ -1,16 +1,20 @@
-### Hi there 👋
+## Le Vu Hai
 
-<!--
-**levuhai23102001/levuhai23102001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi everyone👋 I'm Hai aka M1LKY. I'm from Vietnam. I study at Vietnam - Korea University of Information and Communication Technology, Danang City. Now, i'm living in Danang City and work as Front-End Developer software engineer.<br>
+### My hobbies:
+  - Football ⚽
+  - Video Games: League of legend, CS:GO, Valorant,...
+  - Music 🎧
+  - Chill, Relax.<br>
+_______________________________________________________________________________________________________________________________________________________________
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Front-End<br>
+React
+Redux
+TypeScript
+JavaScript
+HTML
+CSS
+SASS
+MUI
+TailwindCSS
