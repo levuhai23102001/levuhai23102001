@@ -9,12 +9,4 @@
 _______________________________________________________________________________________________________________________________________________________________
 
 ## Front-End<br>
-React
-Redux
-TypeScript
-JavaScript
-HTML
-CSS
-SASS
-MUI
-TailwindCSS
+![ReactJS](/assets/images/react.svg)
